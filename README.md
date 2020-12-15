@@ -1,4 +1,4 @@
-# Iterative Deepening A* Search
+# Iterative Deepening A* Search (IDA\*)
 
 ## Description
 IDA* Search combines the advantages of both depth-first search and 
